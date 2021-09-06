@@ -11,7 +11,7 @@
 #### Proyecto: “Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
 Sistemas”
 #### Integrantes 🤓:
-- **Ttito Saya Alexander** - GitHub Account - [AlexanderTS1](https://github.com/AlexanderTS1)
+- **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
 - **Huancara Ccolqque, Alex Helder** - GitHub Account - [AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
 - **Choque Sarmiento Leydi Diana** - GitHub Account - [Diana743238](https://github.com/Diana743238)
 - **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321)
