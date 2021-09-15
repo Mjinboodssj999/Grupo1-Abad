@@ -17,7 +17,6 @@ Sistemas”
 - **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321)
 - **Sarco Jacinto Daniel Eduardo** - GitHub Account - [Mjinboodssj999](https://github.com/Mjinboodssj999)
 - **Inca Cruz Carlos Eduardo** - GitHub Account - [CarlosEdu322](https://github.com/CarlosEdu322)
-- **Luycho Ancaifuro Mariela** - GitHub Account - [Mariela112](https://github.com/MLuAnc)
 - **Bustamante Flore Erick Andrew** - GitHub Account - [ErickAndrewBF](https://github.com/ErickAndrewBF)
 
 
