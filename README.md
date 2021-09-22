@@ -16,7 +16,7 @@ Sistemas”
 - **Choque Sarmiento Leydi Diana** - GitHub Account - [Diana743238](https://github.com/Diana743238)
 - **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321)
 - **Sarco Jacinto Daniel Eduardo** - GitHub Account - [Mjinboodssj999](https://github.com/Mjinboodssj999)
-- -**Quispe Chambilla Carlos Enrique** - GitHub Account - [Carlinpe](https://github.com/Carlinpe)
+- **Quispe Chambilla Carlos Enrique** - GitHub Account - [Carlinpe](https://github.com/Carlinpe)
 - **Inca Cruz Carlos Eduardo** - GitHub Account - [CarlosEdu322](https://github.com/CarlosEdu322)
 - **Bustamante Flore Erick Andrew** - GitHub Account - [ErickAndrewBF](https://github.com/ErickAndrewBF)
 
