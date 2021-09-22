@@ -1,12 +1,12 @@
 ### Proceso de Instalación:
-Paso 0:
-- Clonar el repositorio con Github desktop.
-Paso 1:
-- Instalar Node.js en sus sistema operativo.
-Paso 2:
-- Instalar el sistema de packetes con el siguiente comando en consola: install npm
-Paso 3:
-- Iniciar el servidor con el comando en consola: npm start
+- Paso 0:
+Clonar el repositorio con Github desktop.
+- Paso 1:
+Instalar Node.js en sus sistema operativo.
+- Paso 2:
+Instalar el sistema de packetes con el siguiente comando en consola: install npm
+- Paso 3:
+Iniciar el servidor con el comando en consola: npm start
 
 
 
