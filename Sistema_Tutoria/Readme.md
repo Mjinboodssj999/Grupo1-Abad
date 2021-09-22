@@ -4,7 +4,8 @@ Debido al limite establecido por GitHub de subir como maximo 100 elementos y tam
 Como solución subimos nuestro tabajo en un repositorio Drive: **_Clic Aquí_** 👉🏻 [Sistema_Tutoria](https://drive.google.com/drive/folders/1awXKsPPlg05ZEvJz54D8pO_9FZ5bllSL)
 
 Se requiere 
-nodejs
+nodejs🎋
 https://nodejs.org/es/download/
+
     xamp
 https://www.apachefriends.org/es/index.html
