@@ -27,13 +27,16 @@ La tutoría es un conjunto de procesos y actividades de información, acompañam
 
 ### Herramientas a utilizar:
 
+1)Back-end
 
-Prototipo: [JUSTINMIND](9.1.1)
+- **React-Nodejs**     : [React-Nodejs]
+- **Css**              : [Css]
+- **JavaScript**       : [JavaScript]
 
-Herramienta de Gestion de Proyectos: [AZURE DEVOPS](https://dev.azure.com/)
 
-Informe: [Informe del proyecto Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
-Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW15_yuU1mcc/edit)
+1)Front-end
+- **PHP**              : [PHP]
+- **MySQL**            : [MySQL]
 
 
 
