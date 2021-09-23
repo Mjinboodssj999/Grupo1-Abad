@@ -1,4 +1,4 @@
-# Grupo3-Renovados
+# Grupo3-Abad
 # **<center>Ingeniería de Software I </center>**
 
 - **Institucion:** Universidad Nacional de San Antonio Abad del Cusco
