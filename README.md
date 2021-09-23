@@ -8,8 +8,9 @@
 #### Docente:
 - **Quintanilla Portugal Roxana Lisette** - _Docente_ - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 
-#### Proyecto: “Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
-Sistemas”
+#### Proyecto: “Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de Sistemas”
+
+
 #### Integrantes 🤓:
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
 - **Huancara Ccolqque, Alex Helder** - GitHub Account - [AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
