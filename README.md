@@ -27,18 +27,18 @@ La tutoría es un conjunto de procesos y actividades de información, acompañam
 
 ### Herramientas a utilizar:
 
-1)Back-end
+1)Front-end
 
 - **React-Nodejs**
 - **Css**    
 - **JavaScript**  
 
 
-1)Front-end
+1)Back-end
 - **PHP**
 - **MySQL** 
 
-### Proyecto en react
+### Proyecto
 
 - **Sistemas de tutoria** Sistemas de tutoria(https://drive.google.com/drive/folders/1awXKsPPlg05ZEvJz54D8pO_9FZ5bllSL)
 
