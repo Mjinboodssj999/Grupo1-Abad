@@ -1,4 +1,4 @@
-# Grupo3-Abad
+# Grupo1-Abad
 # **<center>Ingeniería de Software I </center>**
 
 - **Institucion:** Universidad Nacional de San Antonio Abad del Cusco
