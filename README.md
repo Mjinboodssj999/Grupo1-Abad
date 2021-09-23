@@ -1,4 +1,4 @@
-# Grupo1-Abad
+# Grupo3-Abad
 # **<center>Ingeniería de Software I </center>**
 
 - **Institucion:** Universidad Nacional de San Antonio Abad del Cusco
@@ -29,39 +29,16 @@ La tutoría es un conjunto de procesos y actividades de información, acompañam
 
 1)Back-end
 
-- **React-Nodejs**     : [React-Nodejs]
-- **Css**              : [Css]
-- **JavaScript**       : [JavaScript]
+- **React-Nodejs**
+- **Css**    
+- **JavaScript**  
 
 
 1)Front-end
-- **PHP**              : [PHP]
-- **MySQL**            : [MySQL]
+- **PHP**
+- **MySQL** 
 
+### Proyecto en react
 
+- **Sistemas de tutoria** Sistemas de tutoria(https://drive.google.com/drive/folders/1awXKsPPlg05ZEvJz54D8pO_9FZ5bllSL)
 
-
-
-
-### PLANIFICACION
-
-Diagrama SR:[Diagrama SR](https://github.com/AlexHelder-Tyzer/Grupo-3_Segunda-Entrega_IngSoft/blob/main/Documentaci%C3%B3n/Nuevo%20Modelo%20Logico%20-%20Documentos%20de%20Google%20(1).pdf)
-
-Prototipos de Interfaz:[Prototipo de Interfaz en Justinmind](https://github.com/AlexHelder-Tyzer/Grupo-3_Segunda-Entrega_IngSoft/tree/main/Prototipo)
-
-Comomo: [Google Sheets](https://docs.google.com/spreadsheets/d/1MA6eyHkrxIZId95Bsob6LrNQj5tYz0q3zo2zRzd-r1o/edit?usp=sharing)
-
-Analisis de Riesgo: [Analisis de Riesgo PDF](https://github.com/AlexHelder-Tyzer/Grupo-3_Segunda-Entrega_IngSoft/blob/main/Documentaci%C3%B3n/Ing.%20Software%20-%20An%C3%A1lisis%20de%20riesgo%20.pdf)
-
-### BASE DE DATOS
-
-Base de datos: [Enlace a Base de Datos](https://lucid.app/lucidchart/invitations/accept/inv_f656cbbf-9f27-455c-bd57-a8c075dce510)
-
-Script base de datos: [Enlace a carpeta de descarga](https://lucid.app/lucidchart/invitations/accept/inv_f656cbbf-9f27-455c-bd57-a8c075dce510)
-
-
-### IMPLEMENTACION
-
-Backlog: [Backlog en Azure Devops](https://dev.azure.com/edusar20000031/Sistema%20de%20tutorias%20(Grupo%203)/_workitems/recentlyupdated/)
-
-Codigo a Corregir: [Enlace a Github](https://github.com/denisomarcuyottito/Grupo-5-Desarrollo-de-Software)
